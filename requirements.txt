@@ -1,0 +1,16 @@
+streamlit
+sentence-transformers
+faiss-cpu
+spacy
+feedparser
+pandas
+numpy
+requests
+beautifulsoup4
+python-dotenv
+openai
+transformers
+torch
+scikit-learn
+nltk
+plotly
